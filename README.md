@@ -24,7 +24,9 @@ Power BI Dashboard
 Final Report.
 # Dataset Description
 Dataset: IBM HR Analytics Employee Attrition Dataset
+
 Records: 1,470 employees
+
 Features: 35 (numerical + categorical)
 # Technologies Used
 
