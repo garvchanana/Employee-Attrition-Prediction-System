@@ -6,11 +6,11 @@ Employee attrition is a major challenge in HR management. High turnover impacts 
 This project uses Machine Learning & Ensemble Stacking to predict attrition and help HR teams take proactive retention measures.
 
 The project includes:
-✔ Data Preprocessing
-✔ Exploratory Data Analysis (EDA)
-✔ Feature Engineering
-✔ Model Training (LR, DT, RF, SVM, GB)
-✔ Ensemble Stacking
-✔ Evaluation Metrics
-✔ Power BI Dashboard
-✔ Final Report
+Data Preprocessing,
+Exploratory Data Analysis (EDA), 
+Feature Engineering, 
+Model Training (LR, DT, RF, SVM, GB), 
+Ensemble Stacking, 
+Evaluation Metrics, 
+Power BI Dashboard,
+Final Report.
